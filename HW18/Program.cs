@@ -6,7 +6,7 @@ namespace HW18;
 
 class Program
 {
-
+    /* Pencil */
     public static void Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
